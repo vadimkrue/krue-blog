@@ -1,0 +1,22 @@
+body {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	line-height: 1.4;
+    background-color: #080808;
+}
+
+section {
+	max-width: 864px;
+}
+
+h1 {
+	font-size: 32px;
+	line-height: 1.25;
+	margin: .5em 0 0;
+}
+
+h2 {
+	font-size: 28px;
+	line-height: 1.25;
+	margin: .5em 0 0;
+}
